@@ -1,4 +1,4 @@
-name: Publish SHARIFA demo
+name: Publish school survey demo
 
 on:
   push:

@@ -1,7 +1,5 @@
 {
+  "name": "Наследие",
   "primary": "#004175",
-  "white": "#ffffff",
-  "source": "IMG_20261019_170403_639.jpg (original file contains SVG artwork)",
-  "paths": 34,
-  "note": "Original path coordinates retained; symbol and wordmark are cropped from original artwork for horizontal header layout."
+  "white": "#ffffff"
 }
